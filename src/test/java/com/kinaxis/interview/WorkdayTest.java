@@ -8,14 +8,14 @@ import static org.junit.Assert.*;
 /**
  * Unit test for simple App.
  */
-public class AppTest
+public class WorkdayTest
 {
 
-    private App classUnderTest;
+    private Workday classUnderTest;
 
     @Before
     public void setUp() throws Exception{
-        classUnderTest = new App();
+        classUnderTest = new Workday();
     }
 
     @Test

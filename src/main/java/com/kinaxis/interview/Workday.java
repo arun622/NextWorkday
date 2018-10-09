@@ -4,7 +4,7 @@ package com.kinaxis.interview;
  * Hello world!
  *
  */
-public class App 
+public class Workday
 {
     public static void main( String[] args )
     {
